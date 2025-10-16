@@ -57,4 +57,4 @@ Provided data-driven recommendations for HR policy improvements.
 
 📚 Documentation with DAX formulas and ETL steps
 
-SCREENSHOT OF THE DASHBOARD----
+SCREENSHOT OF THE DASHBOARD----  https://github.com/mounikavani/HR-analytics-dashboard/blob/main/hr-analytics.png
